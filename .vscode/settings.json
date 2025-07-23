@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "Restaurant-management-system-project-in-Java-master\\lib\\mysql-connector-j-9.3.0\\src\\build\\java",
+        "Restaurant-management-system-project-in-Java-master\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "Restaurant-management-system-project-in-Java-master\\lib\\mysql-connector-j-9.3.0\\mysql-connector-j-9.3.0.jar"
+    ]
+}
